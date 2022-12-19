@@ -51,9 +51,9 @@ Initialisation du projet:
 
 - Dans la partie Calculatrice Scientifique, créer et implémenter les boutons suivants.
 
-<img src="./img/sciantifique1.png" />
+<img src="./img/scientifique1.png" />
 
-<img src="./img/sciantifique2.png" />
+<img src="./img/scientifique2.png" />
 
 
 ## Auteurs
