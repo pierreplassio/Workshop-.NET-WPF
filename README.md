@@ -49,6 +49,13 @@ Initialisation du projet:
 
 ### Partie 3 - Calculatrice Scientifique
 
+- Dans la partie Calculatrice Scientifique, créer et implémenter les boutons suivants.
+
+<img src="./img/sciantifique1.png" />
+
+<img src="./img/sciantifique2.png" />
+
+
 ## Auteurs
 * **Pierre Plassio** _alias_ [@pierre-plassio](https://www.linkedin.com/in/pierre-plassio/)
 * **Harry Laudy** _alias_ [@harry-laudy](https://www.linkedin.com/in/harry-laudy/)
