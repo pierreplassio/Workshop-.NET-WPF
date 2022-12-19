@@ -37,6 +37,16 @@ Initialisation du projet:
 
 ### Partie 2 - Calculatrice Standard
 
+- Créer les 24 boutons suivant avec leur texte inclus
+
+<img src="./img/standard.png" />
+
+- Une fois que les boutons sont crées, faire en sorte que chaque bouton de chiffre écrive sa valeur dans la TextBox.
+- Espacer les boutons avec un margin 1 entre chaque boutton et faire en sorte que le rendu soit responsive.
+- Faire les actions des boutons opérants afin de pouvoir additionner, soustraire... les valeurs contenues dans les TextBox. Et bloquer les actions impossibles (ex: division par 0).
+- Implémenter les boutons des autres fonctionnalités (CE, C, suppr...)
+- Afficher le résultat lors de l’interaction avec le bouton ‘=’
+
 ### Partie 3 - Calculatrice Scientifique
 
 ## Auteurs
