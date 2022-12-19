@@ -1,30 +1,19 @@
 # Workshop-.NET-WPF
 WorkShop Epitech decouverte du C# et des application WPF
 
-![Alt text](./controllers_brief.svg)
 <img src="./img/powered-by-pierre-&-harry.svg">
-
-Une petite description du projet
 
 ## Pour commencer
 
-Entrez ici les instructions pour bien débuter avec votre projet...
-
 ### Pré-requis
 
-Ce qu'il est requis pour commencer avec votre projet...
+Passer sur une distribution de Windows.
 
-- Programme 1
-- Programme 2
-- etc...
+### Installation et initialisation
 
-### Installation
-
-Les étapes pour installer votre programme....
-
-Dites ce qu'il faut faire...
-
-_exemple_: Executez la commande ``telnet mapscii.me`` pour commencer ensuite [...]
+Installation Visual Studio:
+  - Rendez-vous sur [``https://visualstudio.microsoft.com/fr/downloads/``](https://visualstudio.microsoft.com/fr/downloads/)
+  - Télécharger la version Communauté de Visual Studio.
 
 
 Ensuite vous pouvez montrer ce que vous obtenez au final...
