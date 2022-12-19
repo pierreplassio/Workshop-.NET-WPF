@@ -49,7 +49,7 @@ Initialisation du projet:
 
 ### Partie 3 - Calculatrice Scientifique
 
-- Dans la partie Calculatrice Scientifique, créer et implémenter les boutons suivants.
+- Comme pour la partie Standard, créer et implémenter les boutons suivants.
 
 <img src="./img/scientifique1.png" />
 
