@@ -23,6 +23,17 @@ Initialisation du projet:
 
 ### Partie 1 - Création de deux interfaces
 
+ - Créer un MenuItem (menu contextuelle) avec un onglet principale « … » contenant deux sous menus :
+    - Standard
+    - Scientifique
+
+- Créer deux panels avec un arrière plan gris, et un arrière plan noir.
+
+// insert exemple of 2 panels
+
+- Lorsque le sous-menu "Standard" est seléctionné, faire en sorte d'ouvrir le panel gris
+- Lorsque le sous-menu "Scientifique" est seléctionné, faire en sorte d'ouvrir les deux panels gris et noir.
+
 ### Partie 2 - Calculatrice Standard
 
 ### Partie 3 - Calculatrice Scientifique
