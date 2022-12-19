@@ -29,7 +29,7 @@ Initialisation du projet:
 
 - Créer deux panels avec un arrière plan gris, et un arrière plan noir.
 
-// insert exemple of 2 panels
+<img src="./img/panels.png">
 
 - Lorsque le sous-menu "Standard" est seléctionné, faire en sorte d'ouvrir le panel gris
 - Lorsque le sous-menu "Scientifique" est seléctionné, faire en sorte d'ouvrir les deux panels gris et noir.
