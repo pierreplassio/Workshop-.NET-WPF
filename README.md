@@ -33,6 +33,7 @@ Initialisation du projet:
 
 - Lorsque le sous-menu "Standard" est seléctionné, faire en sorte d'ouvrir le panel gris
 - Lorsque le sous-menu "Scientifique" est seléctionné, faire en sorte d'ouvrir les deux panels gris et noir.
+- Créer une TextBox qui servira par la suite, d’afficher le résultat.
 
 ### Partie 2 - Calculatrice Standard
 
