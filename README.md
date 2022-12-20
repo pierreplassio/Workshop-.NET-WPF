@@ -51,7 +51,7 @@ Initialisation du projet:
 
 - Une fois que les boutons sont crées, faire en sorte que chaque bouton de chiffre écrive sa valeur dans la TextBox.
 
-<img src="./imgtextbox.png"/>
+<img src="./img/textbox.png"/>
 
 - Espacer les boutons avec un margin 1 entre chaque boutton et faire en sorte que le rendu soit responsive.
 - Faire les actions des boutons opérants afin de pouvoir additionner, soustraire... les valeurs contenues dans les TextBox. Et bloquer les actions impossibles (ex: division par 0).
