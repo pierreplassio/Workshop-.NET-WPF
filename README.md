@@ -7,7 +7,7 @@ WorkShop Epitech decouverte du C# et des application WPF
 
 ### Pré-requis
 
-Passer sur une distribution de Windows.
+Passer sur une distribution de Windows ou MAC.
 
 ### Installation et initialisation
 
