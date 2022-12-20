@@ -23,6 +23,13 @@ Initialisation du projet:
 
 ### Partie 1 - Création de deux interfaces
 
+- Cotées WPF dans le .xaml tous le code est a impletemnter pour la partit graphique 
+- le cotées fonctionelle des interaction avec l'interface elle sera en C#
+
+-TIPS:
+  - lorsque vous double cliquez sur un element dans le previsualisateur graphique il vous genere la fonction nécessaire pour celle la
+  - les interaction sont donc plus fluide
+
  - Créer un MenuItem (menu contextuelle) avec un onglet principale « … » contenant deux sous menus :
     - Standard
     - Scientifique
@@ -38,6 +45,7 @@ Initialisation du projet:
 ### Partie 2 - Calculatrice Standard
 
 - Créer les 24 boutons suivant avec leur texte inclus
+- Responsive faire en sorte d'obtenir un visuelle correct
 
 <img src="./img/standard.png" />
 
